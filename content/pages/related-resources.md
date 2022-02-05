@@ -17,41 +17,342 @@ Internet Links
 Handouts
 --------
 
-| TOPICS | SLIDES |
-| --- | --- |
-| Modern Materials Science and Engineering | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_tetra)) |
-| Tungsten - Theory | ([PDF]({{< baseurl >}}/resources/mit3_11f99_tungsten)) |
-| Using Maple to Plot Singularity Functions | ([PDF]({{< baseurl >}}/resources/mit3_11f99_sfnplot)) |
-| Edge Dislocation - Numerical Simulation | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_edgedn)) |
-| Helicopter Rotor Blades | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_blades)) |
-| Silicate Glass | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_glass)) |
-| Maple Solution for Principal Stress in 4-Point Bending | ([PDF]({{< baseurl >}}/resources/mit3_11f99_ex47)) |
-| Edge Dislocation - Solution from Stress Function | ([PDF]({{< baseurl >}}/resources/mit3_11f99_edgeairy)) |
-| Form vs. Function in Design | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_design)) |
-| Zirconium Tungstate | &nbsp; |
-| Maple Solution for Statically Indeterminate Beam | ([PDF]({{< baseurl >}}/resources/mit3_11f99_ex49)) |
-| Iron-carbon Phase Diagram | ([GIF]({{< baseurl >}}/resources/fe_c)) |
-| Flywheel Design | ([PDF]({{< baseurl >}}/resources/mit3_11f99_flywheel)) |
-| Compressive Force in Heated Tapered Rod | ([PDF]({{< baseurl >}}/resources/mit3_11f99_p113)) |
-| Foamcore Panel | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_foamcore)) |
-| Steel Microstructures | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_steel)) |
-| Strength vs. Density - Ashby Plot | &nbsp; |
-| Polydimethyl Siloxane Analysis | ([PDF]({{< baseurl >}}/resources/mit3_11f99_pdmsslides)) |
-| Stresses Around a Circular Hole | ([PDF]({{< baseurl >}}/resources/mit3_11f99_kirsch)) |
-| Statistics | ([PDF]({{< baseurl >}}/resources/mit3_11f99_stat)) |
-| Efficiency of Materials | ([PDF]({{< baseurl >}}/resources/mit3_11f99_efficiency)) |
-| Tensile Testing | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_instron)) |
-| Cathedrals and Photoelasticity | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_cathedral)) |
-| Creep-rupture Lifetimes | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_creep)) |
-| Elongation of Constant-stress Column (Maple Solution) | ([PDF]({{< baseurl >}}/resources/mit3_11f99_110e)) |
-| Truss Matrix Assembly | ([PDF]({{< baseurl >}}/resources/mit3_11f99_212)) |
-| FElt Solution for Circular Hole | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_holefelt)) |
-| Titenic Rivert Failure | ([GIF]({{< baseurl >}}/resources/titanic)) |
-| Periodic Table/Melting Points | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_pt)) |
-| Pressure Vessel Creep | ([PDF]({{< baseurl >}}/resources/mit3_11f99_ex211)) |
-| Galerkin Weighted Residual Method | ([PDF]({{< baseurl >}}/resources/mit3_11f99_galerkin)) |
-| S. S. Schenectady Failure | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_ship)) |
-| Periodic Table/Young's Modulus | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_youngsmodulusc)) |
-| Anisotropic Compliance Relations | ([PDF]({{< baseurl >}}/resources/mit3_11f99_kep)) |
-| Structural Metal Alloys | ([PDF]({{< baseurl >}}/resources/mit3_11f99_metals)) |
-| Fatigue Fracture Surfaces | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_fatigue))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SLIDES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Modern Materials Science and Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_tetra))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tungsten - Theory
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_tungsten))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Using Maple to Plot Singularity Functions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_sfnplot))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Edge Dislocation - Numerical Simulation
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_edgedn))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Helicopter Rotor Blades
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_blades))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Silicate Glass
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_glass))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Maple Solution for Principal Stress in 4-Point Bending
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_ex47))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Edge Dislocation - Solution from Stress Function
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_edgeairy))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Form vs. Function in Design
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_design))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Zirconium Tungstate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Maple Solution for Statically Indeterminate Beam
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_ex49))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Iron-carbon Phase Diagram
+{{< tdclose >}}
+{{< tdopen >}}
+([GIF]({{< baseurl >}}/resources/fe_c))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Flywheel Design
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_flywheel))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Compressive Force in Heated Tapered Rod
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_p113))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Foamcore Panel
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_foamcore))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Steel Microstructures
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_steel))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Strength vs. Density - Ashby Plot
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Polydimethyl Siloxane Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_pdmsslides))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Stresses Around a Circular Hole
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_kirsch))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Statistics
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_stat))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Efficiency of Materials
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_efficiency))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tensile Testing
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_instron))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cathedrals and Photoelasticity
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_cathedral))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Creep-rupture Lifetimes
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_creep))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Elongation of Constant-stress Column (Maple Solution)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_110e))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Truss Matrix Assembly
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_212))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+FElt Solution for Circular Hole
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_holefelt))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Titenic Rivert Failure
+{{< tdclose >}}
+{{< tdopen >}}
+([GIF]({{< baseurl >}}/resources/titanic))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Periodic Table/Melting Points
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_pt))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pressure Vessel Creep
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_ex211))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Galerkin Weighted Residual Method
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_galerkin))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S. S. Schenectady Failure
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_ship))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Periodic Table/Young's Modulus
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_youngsmodulusc))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Anisotropic Compliance Relations
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_kep))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Structural Metal Alloys
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit3_11f99_metals))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fatigue Fracture Surfaces
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_11f99_fatigue))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
