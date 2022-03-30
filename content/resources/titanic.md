@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b34c4b3b-20d4-d199-1fee-fbf63b1fedf5
 resourcetype: Image
 title: titanic.gif
 uid: 799341cd-138e-4c2f-114d-a576a4d6cd50

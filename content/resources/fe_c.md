@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b34c4b3b-20d4-d199-1fee-fbf63b1fedf5
 resourcetype: Image
 title: fe_c.gif
 uid: dd4ab2a2-a8ba-984f-6014-12cf02958f01
